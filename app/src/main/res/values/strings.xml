@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">L04Reservation</string>
+    <string name="title">Online reservation</string>
+    <string name="name">Name :</string>
+    <string name="nameHint">Please enter name</string>
+    <string name="phone">Mobile no. :</string>
+    <string name="phoneHint">Enter mobile number</string>
+    <string name="pax">Number of pax :</string>
+    <string name="paxHint">Enter number of pax</string>
+    <string name="date">Date :</string>
+    <string name="time">Time :</string>
+    <string name="area">Choose an area :</string>
+    <string name="nonSmoke">Non-smoking Area</string>
+    <string name="smoke">Smoking Area</string>
+    <string name="reset">Reset</string>
+    <string name="reserve">Reserve</string>
+</resources>
